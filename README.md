@@ -3,7 +3,7 @@
 Required files:
 
 * ds_salaries.csv
-* ds_salaries_cleaned.csv
+* ds_salaries_clean.csv
 * ds_salaries.sql
 * Employee Trend Analysis -Tableau project.docx
 * Employee Trend Analysis.twb
